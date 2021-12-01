@@ -11,5 +11,6 @@ All other splitting and fitting operations are obvious.
 
 Head Of Dataset
 
+We cropped dataset in order to fit them in Github.Downloading dataset is not required.Just want to show what we do.
 
    
